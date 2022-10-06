@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz without conditional statement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihorsukhorada/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "Ihor Sukhorada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihorsukhorada/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/ihorsukhorada/fizzbuzz#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
